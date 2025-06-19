@@ -15,7 +15,7 @@ A full-stack web application that allows users to ask and answer programming que
 
 ## Technologies Used
 
-- **Frontend**: HTML, CSS, JavaScript  
+- **Frontend**: HTML, CSS
 - **Backend**: PHP  
 - **Database**: MySQL (SQL)
 
